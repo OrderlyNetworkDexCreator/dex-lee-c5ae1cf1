@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/dex-lee-c5ae1cf1/",
+  "VITE_SEO_SITE_URL": "https://pesabits.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
@@ -41,7 +41,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"00000000-0000-4000-8000-000000000001\",\"displayName\":\"Default\",\"mode\":\"dark\",\"isDefault\":true}]",
   "VITE_ANALYTICS_SCRIPT": "{}",
   "VITE_ANALYTICS_CONFIG": "",
-  "VITE_SYMBOL_LIST": "",
+  "VITE_SYMBOL_LIST": "PERP_BTC_USDC",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
 };
